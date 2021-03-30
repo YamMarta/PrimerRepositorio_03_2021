@@ -3,3 +3,4 @@ Segunda Linea
 
 Linea que hago ADD
 Agrego despues del ADD sin hacer commit
+Para que subir los cambios debo hacer add para que me agregue la segunda linea y depues hago commit para que suba ambos cambios.
